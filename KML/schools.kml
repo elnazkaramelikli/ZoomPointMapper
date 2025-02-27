@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns= "http://earth.google.com/kml/2.0 "><Document>
+<Placemark>
+<name>şehit alican öztürk İho</name>
+<description>okul</description>
+<Point><coordinates>32.6186248,41.1840866,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>emek ortaokul</name>
+<description>okul</description>
+<Point><coordinates>32.675332,41.245995,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>anayasa okul</name>
+<description>okul</description>
+<Point><coordinates>32.626027,41.203576,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>atatürk ortaokul</name>
+<description>okul</description>
+<Point><coordinates>32.6181039,41.204737,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ünsal tülbentçi ortaokul</name>
+<description>okul</description>
+<Point><coordinates>32.6772792,41.2511545,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>mimar sinan orta</name>
+<description>okul</description>
+<Point><coordinates>32.655066,41.230331,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>vilayetler ortaokul</name>
+<description>okul</description>
+<Point><coordinates>32.679815399999995,41.2657409,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>cevdet okul</name>
+<description>okul</description>
+<Point><coordinates>32.6627211,41.23133,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>bahaddin gazi</name>
+<description>okul</description>
+<Point><coordinates>32.6859918,41.2169163,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>yunus emre</name>
+<description>okul</description>
+<Point><coordinates>32.670524199999996,41.2231212,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>ercan hırçın okul</name>
+<description>okul</description>
+<Point><coordinates>32.6178749,41.211267,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>kanuni ortaokul</name>
+<description>okul</description>
+<Point><coordinates>32.6740445,41.2554789,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>mevlana</name>
+<description>okul</description>
+<Point><coordinates>32.667835171418,41.2202505615308,0</coordinates></Point>
+</Placemark>
+</Document></kml>
